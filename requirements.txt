@@ -29,3 +29,4 @@ SQLAlchemy>=1.0.13
 termcolor>=1.1.0
 tzlocal>=1.2.2
 XlsxWriter>=0.8.7
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
